@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"Almost doen ";
+
+cout<<"now done";
 
 return 0;
 }
